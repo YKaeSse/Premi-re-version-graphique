@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Script.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../../:\Users\Enzo\OneDrive - Sgambato Sport SAS\EpitaCours\A-Projet S2\Unity\Premiere version graphique\Première version graphique\Assets\Script\.idea\.idea.Script.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
